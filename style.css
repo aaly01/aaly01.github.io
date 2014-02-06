@@ -22,7 +22,7 @@ body {
 	margin: 0;
 	font-weight: normal;
 	width: 100%;
-    border-bottom: 1px solid #000;
+    	border-bottom: 1px solid #000;
 }
 .RegularC{
 	font-size: 11px;
@@ -62,26 +62,20 @@ body {
         font-size: 28px;
         border-color: #354B5E;
         border-style: solid;
-        -moz-border-radius: 15px;
-        -webkit-border-radius: 15px;
-        -khtml-border-radius: 15px;
         border-radius: 15px;
         text-align: center;
         background-color: #D74B4B;
 }
 .container2{
-		display: block;
-		height : 600px;
-		width: 600px;
-		margin-top: 0%;
-        margin-left: 20%;
-        margin-right: 20%;
+	display: block;
+	height : 600px;
+	width: 600px;
+	margin-top: 0%;
+        margin-left: 30%;
+        margin-right: 30%;
         font-size: 28px;
         border-color: #354B5E;
         border-style: solid;
-        -moz-border-radius: 15px;
-        -webkit-border-radius: 15px;
-        -khtml-border-radius: 15px;
         border-radius: 15px;
         text-align: center;
         background-color: #D74B4B;
